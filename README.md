@@ -65,7 +65,7 @@ I'm Sahar Khorshid(SUN), I teach programming. I am interested in backend and ana
 - **Azeri**: Native
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaharSun&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=setayeshce&langs_count=9&layout=compact&theme=tokyonight)](https://github.com/setayeshce/github-readme-stats)
+[![Top Languages]![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saharsun&layout=compact)
 
 ### ⚡ Fun fact
 
