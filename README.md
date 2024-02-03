@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Golang , python , BI
-- 👯 I’m looking to collaborate on backend with go & BI with python
+- 👯 I’m looking to collaborate ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Python:{pandas,numpy} ; DataBase:{Microsoft sql server , Mongo DB} , Go:{gin} 
 - 📫 How to reach me: ...
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2djaWM3aXE5MWI5dmdmeGJtb3JtaGt0cDd6YXZwMTJtbDFic2xpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="100">
-  <img src="https://lottiefiles.com/animations/python-logo-Yrp3wRFiWb" width="85">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">  
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 
@@ -69,7 +68,7 @@ I'm Sahar Khorshid(SUN), I teach programming. I am interested in backend and ana
 I'm a person who loves to read books.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaharSun&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saharsun&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saharsun&langs_count=8)
 
 ### 📫 How to reach me
 <div display="flex">
