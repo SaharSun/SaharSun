@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I started Bi and go for backend
 -->
+
+## About Me
+I'm Sahar Khorshid(SUN), I teach programming. I am interested in backend and analyzing. 
+
+## Skills
+  ![python]([https://img.shields.io/badge/Flutter-%230175C2.svg?style=flat&logo=flutter&logoColor=FFFFF](https://en.wikipedia.org/wiki/File:Python-logo-notext.svg)https://en.wikipedia.org/wiki/File:Python-logo-notext.svg)
+
+
+  ## Education
+- **Bachelor's Degree**: Computer ٍngineer
+  - Mohaghegh Ardabili University, Ardabil, Iran
+  - Sep 2019 - sep 2023
+
+## Languages
+- **English**: B1
+- **Persian**: Native
+- **Azeri**: Native
+
+</br>
+</br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/saharkhorshid/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sahar8013@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
