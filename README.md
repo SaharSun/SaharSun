@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaharSun&show_icons=true&theme=radical)
+
 <!--
 **SaharSun/SaharSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,6 +31,8 @@ I'm Sahar Khorshid(SUN), I teach programming. I am interested in backend and ana
 - **English**: B1
 - **Persian**: Native
 - **Azeri**: Native
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaharSun&show_icons=true&theme=radical)
 
 </br>
 </br>
