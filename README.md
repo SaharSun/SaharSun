@@ -34,6 +34,11 @@ I'm Sahar Khorshid(SUN), I teach programming. I am interested in backend and ana
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaharSun&show_icons=true&theme=radical)
 
+### ⚡ Fun fact
+
+I'm a person who loves to read books.
+
+### 📫 How to reach me
 </br>
 </br>
 
