@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I started Bi and go for backend
 -->
 
+<p align="center">
+  <img src="https://github.com/mahdidahouei/mahdidahouei/assets/58371632/69870ff3-aee2-4f00-9422-d4bb4da5cf76" width="70">
+  <img src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" width="85">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">  
+  <img src="https://static-00.iconduck.com/assets.00/android-studio-icon-486x512-zp9um7zl.png" width="90">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+</p>
+<br>
+<br>
+
+
+
 ## About Me
 I'm Sahar Khorshid(SUN), I teach programming. I am interested in backend and analyzing. 
 
@@ -51,7 +64,8 @@ I'm Sahar Khorshid(SUN), I teach programming. I am interested in backend and ana
 - **Persian**: Native
 - **Azeri**: Native
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaharSun&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaharSun&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=setayeshce&langs_count=9&layout=compact&theme=tokyonight)](https://github.com/setayeshce/github-readme-stats)
 
 ### ⚡ Fun fact
 
@@ -64,8 +78,5 @@ I'm a person who loves to read books.
   </a>
   <a href="mailto:sahar8013@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="Telegram:saharSUN1">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
