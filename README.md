@@ -23,7 +23,7 @@ I'm Sahar Khorshid(SUN), I teach programming. I am interested in backend and ana
 
 
   ## Education
-- **Bachelor's Degree**: Computer ٍngineer
+- **Bachelor's Degree**: Computer  Engineer
   - Mohaghegh Ardabili University, Ardabil, Iran
   - Sep 2019 - sep 2023
 
