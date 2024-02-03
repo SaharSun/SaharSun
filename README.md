@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <iframe src="https://giphy.com/embed/KAq5w47R9rmTuvWOWa" width="480" height="476" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa">via GIPHY</a></p>
-  <img src="" width="70">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2djaWM3aXE5MWI5dmdmeGJtb3JtaGt0cDd6YXZwMTJtbDFic2xpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="70">
   <img src="https://lottiefiles.com/animations/python-logo-Yrp3wRFiWb" width="85">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">  
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
