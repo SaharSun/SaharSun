@@ -79,7 +79,7 @@ I'm a person who loves to read books.
   <a href="https://www.linkedin.com/in/saharkhorshid/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:sahar8013@gmail.com">
+  <a href="mailto:sahar.khorshid80@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
