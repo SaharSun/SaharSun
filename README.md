@@ -24,16 +24,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsUJ44ffpnAW7Dy/giphy.gif" width="110" title="SQL Server">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="110" title="PostgreSQL">
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="220" title="Git">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100" title="GitHub">
+  <img src="https://media.giphy.com/media/du3J3c2sPTA2s/giphy.gif" width="100" title="GitHub">
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsUJ44ffpnAW7Dy/giphy.gif" width="110" title="SQL Server">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="110" title="PostgreSQL">
-</p>
-
-
 
 
 
