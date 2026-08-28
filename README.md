@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/tr67MX0NcSMAAAAd/power-bi-dashboard-tab.gif" width="250" title="Power BI Tab">
+  <img src="https://media1.tenor.com/m/tr67MX0NcSMAAAAd/power-bi-dashboard-tab.gif" width="250" title="Power BI Tab" width="100">
 </p>
 
 <p align="center">
