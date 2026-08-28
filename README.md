@@ -12,10 +12,10 @@
 
 ### 📜 About Me
 
-I'm a **Data Analyst** based in Nuremberg, DE, passionate about transforming complex datasets into actionable business insights.
+I'm a **Data Analyst** , passionate about transforming complex datasets into actionable business insights.
 
 - 🔭 Currently working on **Data Analysis projects with Python & Power BI**
-- 🌱 Learning **Advanced SQL, Data Warehousing & Cloud**
+- 🌱 Learning **Advanced SQL , ML **
 - 📊 Specialized in **Data Cleaning, EDA, Visualization & Dashboarding**
 - 📚 Computer Engineering graduate from Mohaghegh Ardabili University
 - ⚡ Fun fact: Book lover & always curious about data stories behind everyday life!
@@ -45,15 +45,6 @@ I'm a **Data Analyst** based in Nuremberg, DE, passionate about transforming com
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaharSun&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharsun&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-</div>
-
----
-
 ### 👩🏻‍🎓 Education
 **B.Sc. in Computer Engineering**
 Mohaghegh Ardabili University, Ardabil, Iran
@@ -71,12 +62,7 @@ Sep 2019 - Sep 2023
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saharkhorshid/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahar.khorshid80@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/saharkhorshid)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
 </div>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaharSun&label=Profile%20views&color=2E97F7&style=flat" alt="profile views" />
-</div>
-
