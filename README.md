@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 
 
 ##  📜   About Me
-I'm Sahar Khorshid(SUN), I teach programming. I am interested in backend and analyzing. 
+I'm a Data Analyst who loves turning messy datasets into clear, actionable insights.
+I work mainly with Python (pandas, seaborn) and Power BI
 
 ##  👩🏻‍💻   Skills
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -53,6 +54,35 @@ I'm Sahar Khorshid(SUN), I teach programming. I am interested in backend and ana
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+  <div class="section">
+<h2>📊 Data Analysis: Python · Pandas · NumPy · Matplotlib · Seaborn · Power BI</h2>
+<div class="badge-group">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+</div>
+</div>
+
+<div class="section">
+<h2>🗄️ Databases: SQL Server · PostgreSQL</h2>
+<div class="badge-group">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</div>
+</div>
+
+<div class="section">
+<h2>🛠️ Tools: Git · GitHub · Jupyter</h2>
+<div class="badge-group">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+</div>
+</div>
 
 
 
