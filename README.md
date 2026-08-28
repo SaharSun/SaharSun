@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/200/power-bi.png" width="90" title="Power BI Official" width="100">
+  <img src="https://img.icons8.com/color/200/power-bi.png" width="90" title="Power BI Official" width="250">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" title="Python">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RvaXc4bGljNzRmbXVsOTE1N3AyZjFvZ290MXM3eGdxd2hwcDI4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kPrlykW2TpVU4HWx2O/giphy.gif" width="105">
    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
