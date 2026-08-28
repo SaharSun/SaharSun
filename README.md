@@ -24,11 +24,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="120">
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="200">
+  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/jupyter-6114340-5048637.gif" width="90" title="Jupyter">
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="110" title="Data Visualization">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="110" title="Power BI Dashboard">
 </p>
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2djaWM3aXE5MWI5dmdmeGJtb3JtaGt0cDd6YXZwMTJtbDFic2xpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="100">
