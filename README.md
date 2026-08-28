@@ -15,21 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I started Bi and go for backend
 -->
 
-
-
 <p align="center">
-  
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100" title="Matplotlib">
-  <img src="https://media.giphy.com/media/kPrlykW2TpVU4HWx2O/giphy.gif" width="105" title="Power BI">
+  <img src="https://media1.tenor.com/m/tr67MX0NcSMAAAAd/power-bi-dashboard-tab.gif" width="250" title="Power BI Tab">
 </p>
 
 <p align="center">
   <img src="https://img.icons8.com/color/200/power-bi.png" width="90" title="Power BI Official">
-  <img src="https://media1.tenor.com/m/tr67MX0NcSMAAAAd/power-bi-dashboard-tab.gif" width="250" title="Power BI Tab">
-</p>
-
-
-<p align="center">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" title="Python">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RvaXc4bGljNzRmbXVsOTE1N3AyZjFvZ290MXM3eGdxd2hwcDI4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kPrlykW2TpVU4HWx2O/giphy.gif" width="105">
    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
