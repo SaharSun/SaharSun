@@ -19,12 +19,24 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" title="Python">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" title="Pandas">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFWw/giphy.gif" width="100" title="NumPy">
   <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100" title="Matplotlib">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="100" title="Seaborn">
   <img src="https://media.giphy.com/media/kPrlykW2TpVU4HWx2O/giphy.gif" width="105" title="Power BI">
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsUJ44ffpnAW7Dy/giphy.gif" width="110" title="SQL Server">
+  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="110" title="PostgreSQL">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsUJ44ffpnAW7Dy/giphy.gif" width="110" title="SQL Server">
+  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="110" title="PostgreSQL">
+</p>
+
+
+
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2djaWM3aXE5MWI5dmdmeGJtb3JtaGt0cDd6YXZwMTJtbDFic2xpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="100">
