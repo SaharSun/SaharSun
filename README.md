@@ -18,23 +18,20 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" title="Python">
+  
   <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100" title="Matplotlib">
   <img src="https://media.giphy.com/media/kPrlykW2TpVU4HWx2O/giphy.gif" width="105" title="Power BI">
 </p>
 
 <p align="center">
-  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/jupyter-6114340-5048637.gif" width="90" title="Jupyter">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="110" title="Data Visualization">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="110" title="Power BI Dashboard">
+  <img src="https://img.icons8.com/color/200/power-bi.png" width="90" title="Power BI Official">
+  <img src="https://media1.tenor.com/m/tr67MX0NcSMAAAAd/power-bi-dashboard-tab.gif" width="250" title="Power BI Tab">
 </p>
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2djaWM3aXE5MWI5dmdmeGJtb3JtaGt0cDd6YXZwMTJtbDFic2xpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="100">
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxjbjh3MHdtemp5ZXc5Z3NvYnhpOGVscW9vY3BwNmI0bXRib2N0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DeqfmaWh6CQOxmbhDS/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" title="Python">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RvaXc4bGljNzRmbXVsOTE1N3AyZjFvZ290MXM3eGdxd2hwcDI4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kPrlykW2TpVU4HWx2O/giphy.gif" width="105">
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhkaDY5NWkyNGw3bWptODM4NGN2d3hwNWp3YTc2eThqaGo3NmIyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" 
- backgrand= blacke width="220">
    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 
