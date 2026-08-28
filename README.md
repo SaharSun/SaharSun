@@ -4,7 +4,7 @@
 
 ### Data Analyst | Python & Power BI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Turning+messy+data+into+clear+insights...;Python+%7C+Pandas+%7C+SQL+%7C+Power+BI;Lover+of+Data+Storytelling" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Turning+messy+data+into+clear+insights...;Python+%7C+Pandas+%7C+Power+BI+%7C+SQL;Lover+of+Data+Storytelling" />
 
 </div>
 
@@ -40,7 +40,6 @@ I'm a **Data Analyst** , passionate about transforming complex datasets into act
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ---
